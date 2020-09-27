@@ -1,6 +1,6 @@
 print(1)
 
-print(50)
+print(60)
 
 print(1)
 
